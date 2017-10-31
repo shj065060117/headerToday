@@ -1,0 +1,11 @@
+1.npm init 
+2.(name)项目名称：按回车键（Enter）；
+3.(version)项目版本号：按回车键（Enter）；
+4.(description)项目说明：可以写也可以，按回车键（Enter）；
+5.(entry point)入口文件:这个自己设置一个文件夹；我一般在app/index.js
+6.(test comnand)测试案例：按回车键（Enter）；
+7.(git repository)git 地址：如果项目在git上直接复制git上项目地址；没有按回车键（Enter）；
+8.keywords项目关键词：可以自己写，也可以按回车键（Enter）
+9.author作者：写自己的
+10.license许可证:MIT
+

@@ -1,0 +1,14 @@
+http://www.toutiao.com/search/?keyword=搜索关键词
+
+推荐接口：https://m.toutiao.com/list/?tag=__all__&ac=wap&count=20&format=json_raw&as=A155A93F30E3B10&cp=59F0839BD1F09E1&max_behot_time=1508915564
+视频接口：https://m.toutiao.com/list/?tag=video&ac=wap&count=20&format=json_raw&as=A195D92F6083D11&cp=59F0532DF1210E1&min_behot_time=0
+热点接口：https://m.toutiao.com/list/?tag=news_hot&ac=wap&count=20&format=json_raw&as=A1C5D98FF043DAE&cp=59F0D3ED4A8E6E1&max_behot_time=1508915621
+社会接口：https://m.toutiao.com/list/?tag=news_society&ac=wap&count=20&format=json_raw&as=A1C5294FB084093&cp=59F0F4E0C9B3AE1&min_behot_time=0
+娱乐接口：https://m.toutiao.com/list/?tag=news_entertainment&ac=wap&count=20&format=json_raw&as=A11559CFC023E1B&cp=59F0330EB1CB4E1&min_behot_time=0
+军事接口：https://m.toutiao.com/list/?tag=news_military&ac=wap&count=20&format=json_raw&as=A175794F90A3E45&cp=59F0A34E14954E1&min_behot_time=0
+科技接口：https://m.toutiao.com/list/?tag=news_tech&ac=wap&count=20&format=json_raw&as=A1B5C99FA073F06&cp=59F063EF80B60E1&min_behot_time=0
+汽车接口：https://m.toutiao.com/list/?tag=news_car&ac=wap&count=20&format=json_raw&as=A165E9BF3073F27&cp=59F0531F02374E1&min_behot_time=0
+体育接口：https://m.toutiao.com/list/?tag=news_sports&ac=wap&count=20&format=json_raw&as=A1D5C9EF1013F39&cp=59F023CFB339EE1&min_behot_time=0
+财经接口：https://m.toutiao.com/list/?tag=news_finance&ac=wap&count=20&format=json_raw&as=A195199F9093F51&cp=59F0C35F05216E1&min_behot_time=0
+国际接口：https://m.toutiao.com/list/?tag=news_world&ac=wap&count=20&format=json_raw&as=A165290F6003F70&cp=59F0F34FF7F0AE1&min_behot_time=0
+时尚接口：https://m.toutiao.com/list/?tag=news_fashion&ac=wap&count=20&format=json_raw&as=A125B94FC033FAC&cp=59F0636F4AFC0E1&min_behot_time=0

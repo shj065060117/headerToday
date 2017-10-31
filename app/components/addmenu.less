@@ -1,0 +1,37 @@
+.toolbar{
+  width: 100%; height: .9rem;  position: relative;  background-color: #d43d3d;
+  span{
+    display:block;text-align:center;line-height:.9rem;font-weight:700; font:100 .32rem/.9rem 'STHeiti', 'Microsoft YaHei', 'Helvetica', 'Arial', 'sans-serif';
+    a{
+      color:#FFF; font-weight: 900;text-decoration: none;
+    }
+  }
+  .backBtn{
+    width:.9rem;height:.9rem;position:absolute;left:0;top:0;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;cursor:pointer
+
+  }
+  .backBtn a{
+    width:50%;height:50%;background:url(/images/header_back.png) no-repeat 50%;background-size:100%;display:block
+  }
+}
+.controlBlock{
+  width: 100%; font-weight: 500;
+  .controlTitle{
+    display:block;padding:0 10px;line-height:2em;background-color:#f5f5f5;font-size:.24rem;color:#666
+  }
+  .controlDetail{
+    margin: .1rem 0; list-style: none; padding: 0; overflow: hidden;
+    li{
+      display:inline-block;width:25%;-webkit-animation:zoomIn .3s ease;animation:zoomIn .3s ease; margin-bottom:.1rem;float: left;
+      a{
+        font-size:.3rem;display:block;margin:0 .08rem;border:1px solid #ccc;text-align:center;line-height:2em; text-decoration: none; color: #131313;
+      }
+    }
+    .tuijian a{
+      background-color: #f0f0f0;
+    }
+  }
+  .mark{
+    color: #F00;
+  }
+}
